@@ -39,5 +39,5 @@
   <div>
   
   <a href = "mailto:camila.uemura0103@hotmail.com"><img height= "28" src="https://img.shields.io/badge/-Email-F45E3F?style=flat&logo=mail.ru&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilauemurabretone/" target="_blank"><img height= "28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/camilauemura/" target="_blank"><img height= "28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
