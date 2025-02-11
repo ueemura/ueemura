@@ -1,6 +1,6 @@
 # Oii! Eu sou a Camila 👋
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas
 - 💻 Atuando como desenvolvedora backend na F1RST Tecnologia
 - 😄 Pronome: ela/dela
 
